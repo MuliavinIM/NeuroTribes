@@ -13,6 +13,7 @@
         ps.pip
         ps.setuptools
         ps.pytest
+        ps.pygame 
       ]);
     in
     {
